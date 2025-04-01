@@ -18,8 +18,8 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipanshuRawat](https://github.com/DipanshuRawat)
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **dipanshurawat2108@gmail.com**
+- 💬 Ask me about **DevOps & Cloud**  
+- 📫 How to reach me **princerawat2108@gmail.com**
 
 ---
 
